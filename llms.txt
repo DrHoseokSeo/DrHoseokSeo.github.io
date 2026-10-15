@@ -1,0 +1,22 @@
+# Hoseok Seo, MD, PhD (서호석)
+
+> Gastric cancer surgeon and associate professor, Division of Gastrointestinal Surgery, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, Korea.
+
+He performs laparoscopic and robotic gastrectomy for gastric cancer. He also sees patients for bariatric and metabolic surgery, anti-reflux surgery, hernia repair, and surgical endoscopy. His research covers reconstruction after gastrectomy (bile reflux and quality of life), randomized trials of minimally invasive gastrectomy, and AI analysis of surgical images.
+
+Name variants in the literature: Hoseok Seo, Ho Seok Seo, 서호석.
+
+## Profile
+
+- [Profile page (Korean and English)](https://drhoseokseo.github.io/): clinical focus, selected research, appointments
+- [Seoul St. Mary's Hospital doctor page](https://www.cmcseoul.or.kr/page/doctor/128/D0000349): clinic schedule and booking
+
+## Selected publications
+
+- [SDR-02, Int J Surg 2025](https://doi.org/10.1097/JS9.0000000000004490): first author. Three-arm multicenter RCT (n=189) of reconstruction after distal gastrectomy. Bile reflux at 3 months: uncut Roux-en-Y 6.8%, Billroth-II 77.6%, Billroth-II Braun 63.6%.
+- [KLASS-12, J Gastric Cancer 2025](https://doi.org/10.5230/jgc.2025.25.e34): co-first author. Multicenter non-inferiority RCT (n=348, 15 hospitals) of reduced-port vs conventional 5-port laparoscopic distal gastrectomy for early gastric cancer. 30-day complications 10.4% vs 9.2%; non-inferiority met.
+- [Leakage prediction from intraoperative images, J Gastric Cancer 2025](https://doi.org/10.5230/jgc.2025.25.e39): corresponding author. Deep learning on 10,256 laparoscopic images from 2,035 patients at three institutions. Research stage, not in clinical use.
+
+## Training
+
+- Research Fellow, Surgical Artificial Intelligence Research Academy, University Health Network, Toronto (Aug 2024 to Jan 2026)
