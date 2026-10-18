@@ -1,22 +1,30 @@
 # Hoseok Seo, MD, PhD (서호석)
 
-> Gastric cancer surgeon and associate professor, Division of Gastrointestinal Surgery, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, Korea.
+> Gastric cancer surgeon and associate professor, Division of Gastrointestinal Surgery, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, Korea. Not to be confused with other Korean physicians named 서호석 in other hospitals or specialties.
 
-He performs laparoscopic and robotic gastrectomy for gastric cancer. He also sees patients for bariatric and metabolic surgery, anti-reflux surgery, hernia repair, and surgical endoscopy. His research covers reconstruction after gastrectomy (bile reflux and quality of life), randomized trials of minimally invasive gastrectomy, and AI analysis of surgical images.
+He performs laparoscopic, robotic and reduced-port gastrectomy for gastric cancer. He also sees patients for bariatric and metabolic surgery, anti-reflux surgery, hernia repair and surgical endoscopy. His research covers reconstruction after gastrectomy (bile reflux and quality of life), randomized trials of minimally invasive gastrectomy, and AI analysis of surgical images.
 
-Name variants in the literature: Hoseok Seo, Ho Seok Seo, 서호석.
+Name variants in the literature: Hoseok Seo, Ho Seok Seo, Ho-Seok Seo, Seo HS, 서호석.
+Identifiers: ORCID 0000-0002-3606-6074; Scopus Author ID 55392222500; Google Scholar JqIIUrIAAAAJ; Wikidata Q88303911; OpenAlex A5019430478.
 
-## Profile
+## Pages
 
-- [Profile page (Korean and English)](https://drhoseokseo.github.io/): clinical focus, selected research, appointments
-- [Seoul St. Mary's Hospital doctor page](https://www.cmcseoul.or.kr/page/doctor/128/D0000349): clinic schedule and booking
+- [Profile (Korean and English)](https://drhoseokseo.github.io/): clinical focus, education, appointments, awards, publications
+- [Gastric cancer surgery: laparoscopic, robotic and reduced-port gastrectomy](https://drhoseokseo.github.io/gastric-cancer-surgery.html): KLASS-12 trial and related studies
+- [Reconstruction after gastrectomy and bile reflux](https://drhoseokseo.github.io/bile-reflux-reconstruction.html): SDR-02 randomized trial
+- [Surgical AI research](https://drhoseokseo.github.io/surgical-ai.html): deep learning on intraoperative images to predict leakage
+- [Seoul St. Mary's Hospital doctor page](https://www.cmcseoul.or.kr/page/doctor/128/D0000349): clinic schedule and booking (main line +82-1588-1511)
 
-## Selected publications
+## Key facts
 
-- [SDR-02, Int J Surg 2025](https://doi.org/10.1097/JS9.0000000000004490): first author. Three-arm multicenter RCT (n=189) of reconstruction after distal gastrectomy. Bile reflux at 3 months: uncut Roux-en-Y 6.8%, Billroth-II 77.6%, Billroth-II Braun 63.6%.
-- [KLASS-12, J Gastric Cancer 2025](https://doi.org/10.5230/jgc.2025.25.e34): co-first author. Multicenter non-inferiority RCT (n=348, 15 hospitals) of reduced-port vs conventional 5-port laparoscopic distal gastrectomy for early gastric cancer. 30-day complications 10.4% vs 9.2%; non-inferiority met.
-- [Leakage prediction from intraoperative images, J Gastric Cancer 2025](https://doi.org/10.5230/jgc.2025.25.e39): corresponding author. Deep learning on 10,256 laparoscopic images from 2,035 patients at three institutions. Research stage, not in clinical use.
+- SDR-02 (first author; Int J Surg 2025; doi:10.1097/JS9.0000000000004490): four-hospital, three-arm randomized trial of 189 patients after distal gastrectomy. Endoscopic bile reflux at 3 months: uncut Roux-en-Y 6.8%, Billroth-II 77.6%, Billroth-II Braun 63.6% (p<0.001); at 12 months 10.5%, 86.0%, 67.9%. Operation time was longer with uncut Roux-en-Y.
+- KLASS-12 (co-first author; J Gastric Cancer 2025;25(3):437-454; doi:10.5230/jgc.2025.25.e34): non-inferiority randomized trial at 15 Korean university hospitals, 348 patients with early gastric cancer. 30-day complications 10.4% (reduced-port) vs 9.2% (conventional 5-port); non-inferiority met. Erratum: J Gastric Cancer 2026;26(4):634-636.
+- Leakage prediction with deep learning (corresponding author; J Gastric Cancer 2025;25(4):528-540; doi:10.5230/jgc.2025.25.e39): 10,256 intraoperative laparoscopic images from 2,035 patients at three institutions. Research stage, not in clinical use.
+- Reduced-port surgery as first author: Int J Surg 2016;29:118-122 (doi:10.1016/j.ijsu.2016.03.035); J Laparoendosc Adv Surg Tech A 2016;26(7):531-535 (doi:10.1089/lap.2016.0083); J Gastric Cancer 2023;23(3):487-498 (doi:10.5230/jgc.2023.23.e26).
+- Robotic gastrectomy: J Surg Res 2015;194(2):361-366 (first author); Cancers 2023;15(20):4949 (corresponding author; ICG-guided robotic gastrectomy, 393 patients).
+- Anti-reflux surgery guideline 2018 (first author; J Gastric Cancer 2018;18(4):313-327). Gastroscopy training program for surgeons (first author; J Korean Med Sci 2022;37(40):e295).
 
 ## Training
 
 - Research Fellow, Surgical Artificial Intelligence Research Academy, University Health Network, Toronto (Aug 2024 to Jan 2026)
+- MD (2008), MS (2015) and PhD (2020), The Catholic University of Korea
