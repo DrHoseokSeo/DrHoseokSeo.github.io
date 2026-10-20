@@ -4,6 +4,8 @@
 
 His main clinical work is gastric cancer surgery with robotic, laparoscopic and reduced-port approaches. He also performs single-incision laparoscopic hernia repair, anti-reflux surgery, bariatric and metabolic surgery and surgery for gastric subepithelial tumors (including GIST), and sees patients for surgical endoscopy. Clinical fields listed by Seoul St. Mary's Hospital: gastric cancer, anti-reflux surgery, bariatric and metabolic surgery, hernia (single-incision laparoscopic), laparoscopic surgery, robotic surgery, gastrointestinal disease. His research covers reconstruction after gastrectomy (bile reflux and quality of life), randomized trials of minimally invasive gastrectomy, and AI analysis of surgical images.
 
+Research interests: surgical data science, surgical AI, minimally invasive surgery, robotic surgery, gastric cancer, reconstruction after gastrectomy and quality of life.
+
 Name variants in the literature: Hoseok Seo, Ho Seok Seo, Ho-Seok Seo, Seo HS, 서호석.
 Identifiers: ORCID 0000-0002-3606-6074; Scopus Author ID 55392222500; Google Scholar JqIIUrIAAAAJ; Wikidata Q88303911; OpenAlex A5019430478.
 
