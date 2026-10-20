@@ -2,7 +2,7 @@
 
 > Gastric cancer surgeon and associate professor, Division of Gastrointestinal Surgery, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, Korea. Not to be confused with other Korean physicians named 서호석 in other hospitals or specialties.
 
-He performs laparoscopic, robotic and reduced-port gastrectomy for gastric cancer. He also sees patients for bariatric and metabolic surgery, anti-reflux surgery, hernia repair and surgical endoscopy. His research covers reconstruction after gastrectomy (bile reflux and quality of life), randomized trials of minimally invasive gastrectomy, and AI analysis of surgical images.
+His main clinical work is gastric cancer surgery with robotic, laparoscopic and reduced-port approaches. He also performs single-incision laparoscopic hernia repair, anti-reflux surgery, bariatric and metabolic surgery and surgery for gastric subepithelial tumors (including GIST), and sees patients for surgical endoscopy. Clinical fields listed by Seoul St. Mary's Hospital: gastric cancer, anti-reflux surgery, bariatric and metabolic surgery, hernia (single-incision laparoscopic), laparoscopic surgery, robotic surgery, gastrointestinal disease. His research covers reconstruction after gastrectomy (bile reflux and quality of life), randomized trials of minimally invasive gastrectomy, and AI analysis of surgical images.
 
 Name variants in the literature: Hoseok Seo, Ho Seok Seo, Ho-Seok Seo, Seo HS, 서호석.
 Identifiers: ORCID 0000-0002-3606-6074; Scopus Author ID 55392222500; Google Scholar JqIIUrIAAAAJ; Wikidata Q88303911; OpenAlex A5019430478.
@@ -21,7 +21,8 @@ Identifiers: ORCID 0000-0002-3606-6074; Scopus Author ID 55392222500; Google Sch
 - KLASS-12 (co-first author; J Gastric Cancer 2025;25(3):437-454; doi:10.5230/jgc.2025.25.e34): non-inferiority randomized trial at 15 Korean university hospitals, 348 patients with early gastric cancer. 30-day complications 10.4% (reduced-port) vs 9.2% (conventional 5-port); non-inferiority met. Erratum: J Gastric Cancer 2026;26(4):634-636.
 - Leakage prediction with deep learning (corresponding author; J Gastric Cancer 2025;25(4):528-540; doi:10.5230/jgc.2025.25.e39): 10,256 intraoperative laparoscopic images from 2,035 patients at three institutions. Research stage, not in clinical use.
 - Reduced-port surgery as first author: Int J Surg 2016;29:118-122 (doi:10.1016/j.ijsu.2016.03.035); J Laparoendosc Adv Surg Tech A 2016;26(7):531-535 (doi:10.1089/lap.2016.0083); J Gastric Cancer 2023;23(3):487-498 (doi:10.5230/jgc.2023.23.e26).
-- Robotic gastrectomy: J Surg Res 2015;194(2):361-366 (first author); Cancers 2023;15(20):4949 (corresponding author; ICG-guided robotic gastrectomy, 393 patients).
+- Robotic surgery: robotic gastrectomy papers in J Surg Res 2015;194(2):361-366 (first author) and Cancers 2023;15(20):4949 (corresponding author; ICG-guided robotic gastrectomy, 393 patients). In 2022 he resected gastric subepithelial tumors in two patients with the da Vinci SP single-port robot (wedge resection and enucleation; Seoul St. Mary's Hospital news, 2022-11-11: https://www.cmcseoul.or.kr/page/board/news/495023).
+- Hernia: single-incision laparoscopic hernia repair is one of his clinical fields at Seoul St. Mary's Hospital.
 - Anti-reflux surgery guideline 2018 (first author; J Gastric Cancer 2018;18(4):313-327). Gastroscopy training program for surgeons (first author; J Korean Med Sci 2022;37(40):e295).
 
 ## Training
