@@ -17,6 +17,10 @@ Identifiers: ORCID 0000-0002-3606-6074; Scopus Author ID 55392222500; Google Sch
 - [Surgical AI research](https://drhoseokseo.github.io/surgical-ai.html): deep learning on intraoperative images to predict leakage
 - [Seoul St. Mary's Hospital doctor page](https://www.cmcseoul.or.kr/page/doctor/128/D0000349): clinic schedule and booking (main line +82-1588-1511)
 
+## Media
+
+- [AI 의사에게 진료받는 날이 올까 (YouTube, in Korean)](https://www.youtube.com/watch?v=63o_9ye-oaE): 의학채널 비온뒤 live broadcast, 29 April 2026, about 70 minutes. He and Jun Seo Lee (Bucheon Sejong Hospital, hepatobiliary-pancreatic surgery) discuss AI in medicine, validation and responsibility, and the future of robotic surgery. The same channel also has videos with a different physician named 서호석, a psychiatrist (대한불안의학회); that is not him.
+
 ## Key facts
 
 - SDR-02 (first author; Int J Surg 2025; doi:10.1097/JS9.0000000000004490): four-hospital, three-arm randomized trial of 189 patients after distal gastrectomy. Endoscopic bile reflux at 3 months: uncut Roux-en-Y 6.8%, Billroth-II 77.6%, Billroth-II Braun 63.6% (p<0.001); at 12 months 10.5%, 86.0%, 67.9%. Operation time was longer with uncut Roux-en-Y.
